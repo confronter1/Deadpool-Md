@@ -18,9 +18,9 @@ global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'session'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
-global.AUTOLIKE_EMOJI: process.env.AUTOLIKE_EMOJI || '🌚'
-global.AUTO_REACT: process.env.AUTO_REACT || '🌚' 
-global.AUTO_REPLY_STATUS: process.env.STATUS_READ_MSG || '🌚 Status Viewed by Deadpool-Md'
+global.AUTOLIKE_EMOJI: process.env.AUTOLIKE_EMOJI || "🌚"
+global.AUTO_REACT: process.env.AUTO_REACT || "🌚" 
+global.AUTO_REPLY_STATUS: process.env.STATUS_READ_MSG || "🌚 Status Viewed by Deadpool-Md"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = false
